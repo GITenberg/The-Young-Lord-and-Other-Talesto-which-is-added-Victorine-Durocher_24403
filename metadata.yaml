@@ -1,0 +1,54 @@
+_repo: The-Young-Lord-and-Other-Talesto-which-is-added-Victorine-Durocher_24403
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Mason, Walter George
+    alias: Mason, W. G. (Walter George)
+    birthdate: 1820
+    deathdate: 1866
+    gutenberg_agent_id: '6947'
+    url: http://www.gutenberg.org/2009/agents/6947
+  - agent_name: Weir, Harrison
+    alias: Weir, Harrison William
+    birthdate: 1824
+    deathdate: 1906
+    gutenberg_agent_id: '8210'
+    url: http://www.gutenberg.org/2009/agents/8210
+    wikipedia: http://en.wikipedia.org/wiki/Harrison_Weir
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Crosland, Newton, Mrs.
+    aliases:
+    - Crosland, Camilla Dufour Toulmin
+    - Toulmin, Camilla
+    birthdate: 1812
+    deathdate: 1895
+    gutenberg_agent_id: '26462'
+    url: http://www.gutenberg.org/2009/agents/26462
+  - agent_name: Sherwood, Mrs. (Mary Martha)
+    aliases:
+    - Sherwood, Mrs.
+    - Sherwood, Mary Martha Butt
+    birthdate: 1775
+    deathdate: 1851
+    gutenberg_agent_id: '4312'
+    url: http://www.gutenberg.org/2009/agents/4312
+description: ''
+gutenberg_issued: '2008-01-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24403'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Avarice -- Juvenile fiction'
+- !lcsh 'Children''s stories'
+- !lcsh 'Self-interest -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Young Lord, and Other Tales; to which is added Victorine Durocher
+url: http://www.gutenberg.org/ebooks/24403
